@@ -1,0 +1,16 @@
+#navbar {
+    height: 5rem ;
+    background-color: rgba(151, 44, 82, 1);
+}
+
+;
+
+.button {
+    color: rgba(0, 178, 255, 1);
+}
+
+;
+
+.navbar-nav {
+    text-align: right;
+}
